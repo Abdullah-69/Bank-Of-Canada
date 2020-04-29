@@ -1,0 +1,65 @@
+body{
+
+    margin: auto;
+}
+
+#login-area{
+
+    margin-top: 200px;
+    
+}
+
+#login-area h1 {
+
+    margin-bottom: 100px;
+}
+
+.submit-area {
+    
+    padding: 50px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+/* Balance-Area start */
+
+#balance-area{
+    margin-top: 200px;
+    display: none;
+}
+
+.status{
+
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 20px;
+    
+
+}
+.Deposit{
+    background-color: #007bff !important;
+
+}
+.Withdraw{
+    background-color: #dc3545 !important;
+}
+
+
+.Balance{
+    background-color: #ffc107 !important;
+
+}
+
+.last-step{
+    margin-top: 100px;
+    
+    padding: 30px;
+    box-shadow: 5px 5px 10px gray ;
+    border-radius: 10px;
+
+}
+
+
+
+
+/* Balance-Area end */
